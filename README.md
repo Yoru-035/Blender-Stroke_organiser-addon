@@ -19,9 +19,9 @@ a savoir :
 -l'outil n'a pas été testé dans les version autre que 5.0.1 et 5.0.0,
 -il est concu pour une utilisation du grease pencil et est capriceux avec d'autres objets,
 -l'addon n'a pas été traduit en plusisieurs langues mais certaint thermes anglophones et francais mélangés peuvent porter a confusion.
+-l'outil est disponible gratuitemet sur Github jusqu'au 10/08/2026, au dela il seras déplacé vers un module payant avec achat unique de 3€ sur un plateforme adaptée, donc profiter en !
+-cet outil a nécessité l’intervention d’IA generatives pour des bugs complexes et l’organisation globale du fichier, bien qu'il a mis plusiqurs semaines a être complètement configuré.
 
 Rejoignez moi sur Youtube si ce n’est pas déjà fait ! Je poste régulièrement des avancées sur des projets en rapport avec le Grease Pencil ! XD
 
 
-notes :
--cet outil a nécessité l’intervention d’ l’IA generatives pour des bugs complexes et l’organisation globale du fichier, bien qu'il a mis plusiqurs semains a être complètement configuré.
